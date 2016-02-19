@@ -1,2 +1,2 @@
 FROM busybox
-RUN echo 'Hello world!'
+CMD ["/bin/echo", "'Hello world!'"]
