@@ -2,6 +2,5 @@
 A simple hello world for docker
 
 ```
-$ docker run tutorialuser/docker-busybox-hello-world
-'Hello world!'
+docker run tutorialuser/docker-busybox-hello-world
 ```
